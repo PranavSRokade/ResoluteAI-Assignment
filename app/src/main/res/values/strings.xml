@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResoluteAI Assignment</string>
+    <string name="signUp">New Here?<font color='#4b92db'> Register Yourself!</font></string>
+    <string name="login">Already have an account?<font color='#4b92db'> Login</font></string>
+</resources>
